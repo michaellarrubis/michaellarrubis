@@ -1,7 +1,5 @@
 # 👨‍💻 Michael Angelo Larrubis
-## Senior Software Engineer
 
----
 
 ## 👋 Introduction
 
