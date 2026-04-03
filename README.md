@@ -1,15 +1,8 @@
-# 👨‍💻 Michael Angelo Larrubis
-
-
-## 👋 Introduction
-
-Hello there 👋 I’m Michael
-
-I’m a Senior Software Engineer specialising in frontend and full-stack development. I build scalable, production-ready systems and have experience leading teams and delivering high-impact applications using technologies like React, Next.js, and Node.js.
+## Hello there 👋 I’m Michael
 
 ---
 
-## 🧠 Profile
+## 👨‍💻 Profile
 
 Senior Software Engineer with extensive experience delivering scalable web applications across frontend and full stack environments.
 
