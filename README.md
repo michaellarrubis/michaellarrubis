@@ -21,7 +21,7 @@ Adept at mentoring developers, implementing test-driven development (TDD), and e
 
 ---
 
-🏗 Architecture & Engineering Practices
+## 🏗 Architecture & Engineering Practices
 - Domain-Driven Design (DDD)
 - Microservices Architecture
 - Modular Monolith Architecture
