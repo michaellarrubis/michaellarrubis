@@ -1,12 +1,12 @@
 # 👨‍💻 Michael Angelo Larrubis
-##Senior Software Engineer
-📍 Cebu City, Philippines
+## Senior Software Engineer
 
 ---
 
 ## 👋 Introduction
 
 Hello there 👋 I’m Michael
+
 I’m a Senior Software Engineer specialising in frontend and full-stack development. I build scalable, production-ready systems and have experience leading teams and delivering high-impact applications using technologies like React, Next.js, and Node.js.
 
 ---
